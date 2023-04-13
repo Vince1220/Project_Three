@@ -1,5 +1,5 @@
 from simulation import Simulation
 
-sim = Simulation()
-sim.Run_Simulation()
+sim_one = Simulation()
+sim_one.Run_Simulation()
 #Create Repository
