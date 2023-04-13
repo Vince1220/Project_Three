@@ -1,3 +1,5 @@
+from orderfactory import Order_Factory
+
 class Franchise:
     def Location_number(self,num):
         store_one = Franchise(1)
@@ -7,5 +9,6 @@ class Franchise:
         pass
 
     def Place_Order(self):
+        order = Order_Factory()
         #place order () void
         pass
