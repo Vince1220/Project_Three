@@ -1,1 +1,8 @@
-Hello
+Hello2Dish ordered: Pizza,from location 1,Price: 10,Total 10
+2Dish ordered: Pasta,from location 2,Price: 12,Total 22
+2Dish ordered: Salad,from location 1,Price: 7,Total 7
+2Dish ordered: Pasta,from location 2,Price: 12,Total 19
+2Dish ordered: Pizza,from location 3,Price: 10,Total 29
+2Dish ordered: Pizza,from location 3,Price: 10,Total 39
+2Dish ordered: Pasta,from location 2,Price: 12,Total 51
+2Dish ordered: Salad,from location 1,Price: 7,Total 58
